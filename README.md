@@ -20,3 +20,19 @@ CampusPilot AI reads university emails, summarizes them using AI, extracts impor
 ## Status
 
 🚧 Currently under development.
+## Future Features
+
+### AI Prompt Engine
+
+For every incoming email:
+
+- Summarize the email
+- Identify the sender
+- Extract deadlines
+- Extract meeting date and time
+- Extract venue
+- Extract dress code
+- Extract important links
+- Identify action items
+- Automatically create Google Calendar events
+- Add reminders 30 minutes and 5 minutes before deadlines or meetings
